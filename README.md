@@ -1,8 +1,6 @@
-# Packages needed
+# Packages required
 
-pandas
-scikit-learn
-matplotlib
+pandas, scikit-learn, matplotlib
 
 # Running the code
 
